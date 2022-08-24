@@ -1,0 +1,744 @@
+
+		h1
+			{
+				text-align: center;
+				color: aqua;
+				text-shadow: 1px 1px #005757,2px 2px #005757,3px 3px #005757,4px 4px #005757,5px 5px #005757,6px 6px #005757,7px 7px #005757,8px 8px #141414,9px 9px #141414,10px 10px #141414,11px 11px 15px rgba(0,0,0,0.5); 
+				font-size: 50pt;
+				text-transform: uppercase;
+				transform: skew(-5deg,-5deg) rotate(5deg);
+
+			}
+		h1.iloilo
+			{
+				position: absolute;
+				top: 150%;
+				left: 10%;
+				color: white;
+				text-shadow: 1px 1px #005757,2px 2px #005757,3px 3px #005757,4px 4px #005757,5px 5px #005757,6px 6px #005757,7px 7px #005757,8px 8px #141414,9px 9px #141414,10px 10px #141414,11px 11px 15px rgba(0,0,0,0.5); 
+				font-size: 50pt;
+				text-transform: uppercase;
+				transform: skew(-5deg,-5deg) rotate(5deg);
+
+			}
+		h1.launion
+			{
+				position: absolute;
+				top: 280%;
+				left: 60%;
+				color: white;
+				text-shadow: 1px 1px #005757,2px 2px #005757,3px 3px #005757,4px 4px #005757,5px 5px #005757,6px 6px #005757,7px 7px #005757,8px 8px #141414,9px 9px #141414,10px 10px #141414,11px 11px 15px rgba(0,0,0,0.5); 
+				font-size: 50pt;
+				text-transform: uppercase;
+				transform: skew(-5deg,-5deg) rotate(5deg);
+
+			}
+		h1.zamboanga
+			{
+				position: absolute;
+				top: 405%;
+				left: 3%;
+				color: white;
+				text-shadow: 1px 1px #005757,2px 2px #005757,3px 3px #005757,4px 4px #005757,5px 5px #005757,6px 6px #005757,7px 7px #005757,8px 8px #141414,9px 9px #141414,10px 10px #141414,11px 11px 15px rgba(0,0,0,0.5); 
+				font-size: 50pt;
+				text-transform: uppercase;
+				transform: skew(-5deg,-5deg) rotate(5deg);
+
+			}
+		h1.gensan
+			{
+				position: absolute;
+				top: 580%;
+				left: 50%;
+				color: white;
+				text-shadow: 1px 1px #005757,2px 2px #005757,3px 3px #005757,4px 4px #005757,5px 5px #005757,6px 6px #005757,7px 7px #005757,8px 8px #141414,9px 9px #141414,10px 10px #141414,11px 11px 15px rgba(0,0,0,0.5); 
+				font-size: 50pt;
+				text-transform: uppercase;
+				transform: skew(-5deg,-5deg) rotate(5deg);
+
+			}
+
+		h1.myfamily
+			{
+				position: absolute;
+				left: 35%;
+				top: 3%;
+				color: white;
+				text-shadow: 1px 1px #005757,2px 2px #005757,3px 3px #005757,4px 4px #005757,5px 5px #005757,6px 6px #005757,7px 7px #005757,8px 8px #141414,9px 9px #141414,10px 10px #141414,11px 11px 15px rgba(0,0,0,0.5); 
+				font-size: 50pt;
+				text-transform: uppercase;
+				transform: skew(-5deg,-5deg) rotate(5deg);
+
+			}
+
+		h1.futurehouse
+			{
+				position: absolute;
+				left: 30%;
+				top: 530%;
+				color: white;
+				text-shadow: 1px 1px #005757,2px 2px #005757,3px 3px #005757,4px 4px #005757,5px 5px #005757,6px 6px #005757,7px 7px #005757,8px 8px #141414,9px 9px #141414,10px 10px #141414,11px 11px 15px rgba(0,0,0,0.5); 
+				font-size: 50pt;
+				text-transform: uppercase;
+				transform: skew(-5deg,-5deg) rotate(5deg);
+
+			}
+		.menu-bar
+			{
+				background: rgb(1, 86, 86);
+				text-align: center;
+				position: absolute;
+				left: 22%;
+			}
+		.menu-bar ul
+			{
+				display: inline-flex;
+				list-style: none;
+				color: #fff;
+				font-family: sans-serif;
+			}
+		.menu-bar ul li
+			{
+				width: 195px;
+				margin: 3px;
+				padding: .5px;
+			}
+		.menu-bar ul li:hover
+			{
+				background: rgb(0, 255, 255);
+				border-radius: 4px;
+				height: 30px;
+			}
+		a
+			{
+				color: white;
+				font-size: 15pt;
+				font-weight: bolder;
+				text-shadow: 1px 1px #141414,2px 2px #141414;
+			}
+		input	
+			{
+				position: absolute;
+				top: 80%;
+				width: 25%;
+				height: 5%;
+				left: 40%;
+				font-family: Verdana;
+				font-size: 9pt;
+				border: 5px solid rgb(6,  185, 181);
+				border-radius: 50px;
+				padding: 0px 10px;
+			}
+		i
+			{
+				position: absolute;
+				top: 81%;
+				left: 64%;
+			}
+		img.fb
+			{
+				position: absolute;
+				bottom: 90%;
+				left: 90%;
+			}
+		img.ig
+			{
+				position: absolute;
+				bottom: 90%;
+				left: 95%;
+			}
+		img.solo1
+			{
+				
+				position: absolute;
+				top: 65%;
+				display: flex;
+				justify-content: space-around;
+				background-color: black;
+				border: 2px solid;
+				border-radius: 20px;
+				padding: 5px;
+			}
+		img.solo
+			{
+				
+				position: absolute;
+				top: 65%;
+				display: flex;
+				justify-content: space-around;
+				background-color: black;
+				border: 2px solid;
+				border-radius: 20px;
+				padding: 5px;
+				box-shadow: 1px 1px 20px #14EACFFF,
+							1px 1px 40px #14EACFFF;	
+					animation: anime 1s linear infinite;
+			}
+		div:nth-child(1)
+			{
+
+				animation-delay: 0.2s;
+
+			}
+		div:nth-child(2)
+			{
+	animation-delay: 0.4s;
+			}
+	@keyframes anime
+			{
+		0%{
+		filter: hue-rotate(0deg);
+			}
+	100%{
+
+		filter: hue-rotate(360deg);
+		}
+
+		}
+			}
+img.solo1
+			{
+				
+				position: absolute;
+				top: 65%;
+				display: flex;
+				justify-content: space-around;
+				background-color: black;
+				border: 2px solid;
+				border-radius: 20px;
+				padding: 5px;
+			}
+img.solo
+			{
+				
+				position: absolute;
+				top: 65%;
+				display: flex;
+				justify-content: space-around;
+				background-color: black;
+				border: 2px solid;
+				border-radius: 20px;
+				padding: 5px;
+				box-shadow: 1px 1px 20px #14EACFFF,
+							1px 1px 40px #14EACFFF;	
+					animation: anime 1s linear infinite;
+			}
+		div:nth-child(1)
+			{
+
+				animation-delay: 0.2s;
+
+			}
+		div:nth-child(2)
+			{
+	animation-delay: 0.4s;
+			}
+	@keyframes anime
+			{
+		0%{
+		filter: hue-rotate(0deg);
+			}
+	100%{
+
+		filter: hue-rotate(360deg);
+		}
+
+		}
+			}
+
+		img.head
+			{
+				position: absolute;
+				top: 65%;
+				border-style: groove;
+				border-color: red;
+				border-width: 8px;
+			}
+		audio.memories
+			{
+				position: absolute;
+				top: 53%;
+				left: 28%;
+			}
+		audio.passion
+			{
+				position: absolute;
+				top: 50%;
+				left: 40%;
+			}
+		audio.journey
+			{
+				position: absolute;
+				top: 65%;
+				left: 40%;
+			}
+		audio.familyaudio
+			{
+				position: absolute;
+				top: 80%;
+				left: 35%;
+			}
+		audio.future
+			{
+				position: absolute;
+				top: 70%;
+				left: 40%;
+			}
+		video.future1
+			{
+				border-style: solid;
+				border-width: 2px;
+				width: 45%;
+				position: absolute;
+				top: 270%;
+				left: 50%;
+				box-shadow: 3px 10px 40px white;
+			}
+		video.commission1
+			{
+				border-style: solid;
+				border-width: 2px;
+				width: 45%;
+				position: absolute;
+				top: 250%;
+				left: 3%;
+				box-shadow: 3px 10px 40px white;
+			}
+		video.scale3
+			{
+				border: solid transparent;
+				border-width: 1px;
+				box-shadow: 3px 10px 40px white;
+				border-style: solid;
+				width: 40%;
+				position: absolute;
+				top: 190%;
+				left: 30%;
+			}
+		video.houseplan1
+			{
+				border: solid transparent;
+				border-width: 1px;
+				box-shadow: 3px 10px 40px white;
+				border-style: solid;
+				width: 45%;
+				position: absolute;
+				top: 375%;
+				left: 50%;
+			}
+		img.p1
+			{
+				position: absolute;
+				left: 60%;
+				top: 120%;
+			}
+		img.body1
+			{
+				position: absolute;
+				top: 120%;
+				right: 1px;
+			}
+		p.para1
+			{
+				font-size: 20pt;
+				font-family: georgia;
+				background-color: rgba(54, 21, 240, .3);
+				color: white;
+				position: absolute;
+				top: 165%;
+				left: 5%;
+			}
+		img.body2
+			{
+				position: absolute;
+				top: 248%;
+				right: 1px;
+			}
+		img.p2
+			{
+				position: absolute;
+				top: 250%;
+				left: 2%;
+			}
+		p.para2
+			{
+				font-size: 20pt;
+				font-family: georgia;
+				background-color: rgba(54, 21, 240, .3);
+				color: white;
+				position: absolute;
+				top: 270%;
+				left: 50%;
+			}
+		p.futureplan
+			{
+				font-size: 20pt;
+				font-family: georgia;
+				background-color: rgba(54, 21, 240, .3);
+				color: white;
+				position: absolute;
+				top: 100%;
+				left: 5%;
+			}
+		p.commission
+			{
+				font-size: 20pt;
+				font-family: georgia;
+				background-color: rgba(54, 21, 240, .3);
+				color: white;
+				position: absolute;
+				top: 325%;
+				left: 22%;
+			}
+		p.scalemodel
+			{
+				font-size: 20pt;
+				font-family: georgia;
+				background-color: rgba(54, 21, 240, .3);
+				color: white;
+				position: absolute;
+				top: 190%;
+				left: .5%;
+			}
+		p.houseplan
+			{
+				font-size: 20pt;
+				font-family: georgia;
+				background-color: rgba(54, 21, 240, .3);
+				color: white;
+				position: absolute;
+				top: 420%;
+				left: 1%;
+			}
+		img.body3
+			{
+				position: absolute;
+				top: 375%;
+				right: 1px;
+			}
+		img.p3
+			{
+				position: absolute;
+				top: 380%;
+				left: 50%;
+			}
+		p.para3
+			{
+				font-size: 20pt;
+				font-family: georgia;
+				background-color: rgba(54, 21, 240, .3);
+				color: white;
+				position: absolute;
+				top: 390%;
+				left: 3%;
+			}
+		a.button
+			{
+				position: absolute;
+				top: 490%;
+				left: 95%;
+			}
+		a.button1
+			{
+				position: absolute;
+				top: 620%;
+				left: 95%;
+			}
+		a.button2
+			{
+				position: absolute;
+				top: 645%;
+				left: 95%;
+			}
+		a.button3
+			{
+				position: absolute;
+				top: 85%;
+				left: 93%;
+			}
+		a.button4
+			{
+				position: absolute;
+				top: 540%;
+				left: 93%;
+			}
+		img.body4
+			{
+				position: absolute;
+				top: 102%;
+				right: 5px;
+				
+			}
+		img.pd1
+			{
+				position: absolute;
+				top: 100%;
+				left: 20%;
+			}
+		p.para4
+			{
+				font-size: 20pt;
+				font-family: georgia;
+				background-color: rgba(127, 127, 127, .3);
+				color: black;
+				position: absolute;
+				top: 165%;
+				left: 3%;
+			}
+		img.body5
+			{
+				position: absolute;
+				top: 231%;
+				right: 1px;
+			}
+		p.para5
+			{
+				font-size: 20pt;
+				font-family: georgia;
+				background-color: rgba(255, 255, 255, .3);
+				color: black;
+				position: absolute;
+				top: 280%;
+				left: 3%;
+			}
+		p.para6
+			{
+				font-size: 20pt;
+				font-family: georgia;
+				background-color: rgba(255, 255, 255, .3);
+				color: black;
+				position: absolute;
+				top: 410%;
+				left: 3%;
+			}
+		p.para7
+			{
+				font-size: 20pt;
+				font-family: georgia;
+				background-color: rgba(127, 127, 127, .3);
+				color: black;
+				position: absolute;
+				top: 530%;
+				left: 15%;
+			}
+		img.body6
+			{
+				position: absolute;
+				top: 355%;
+				right: 1px;
+			}
+		img.body7
+			{
+				position: absolute;
+				top: 500%;
+				right: 1px;
+			}
+		img.body8
+			{
+				position: absolute;
+				top: 648%;
+				right: 1px;
+			}
+		img.body9
+			{
+				position: absolute;
+				top: 99%;
+				right: 1px;
+				
+			}
+		img.body10
+			{
+				position: absolute;
+				top: 230%;
+				right: 1px;
+				
+			}
+		img.body11
+			{
+				position: absolute;
+				top: 360%;
+				right: 1px;
+				
+			}
+		img.body12
+			{
+				position: absolute;
+				top: 490%;
+				right: 1px;
+				
+			}
+		img.body13
+			{
+				position: absolute;
+				top: 99%;
+				right: 3px;
+				
+			}
+		img.body14
+			{
+				position: absolute;
+				top: 243%;
+				right: 0.01%;
+				
+			}
+		img.body15
+			{
+				position: absolute;
+				top: 347%;
+				right: 0.01%;
+				
+			}
+		img.body16
+			{
+				position: absolute;
+				top: 450%;
+				right: 0.01%;
+				
+			}
+		img.pd3
+			{
+				position: absolute;
+				top: 350%;
+				left: 43%;
+			}
+		img.pd4
+			{
+				position: absolute;
+				top: 520%;
+				left: 55%;
+			 	border: solid transparent;
+				border-width: 1px;
+				box-shadow: 3px 19px 18px black;
+			}
+		img.pd5
+			{
+				position: absolute;
+				top: 565%;
+				left: 10%;
+				border: solid transparent;
+				border-width: 1px;
+				box-shadow: 3px 19px 18px black;
+			}
+		img.scale1
+			{
+				position: absolute;
+				top: 135%;
+				left: 5%;
+				border: solid transparent;
+				border-width: 1px;
+				box-shadow: 3px 10px 40px white;
+			}
+		img.scale2
+			{
+				position: absolute;
+				top: 135%;
+				left: 50%;
+				border: solid transparent;
+				border-width: 1px;
+				box-shadow: 3px 10px 40px white;
+			}
+		img.houseplan
+			{
+				position: absolute;
+				top: 360%;
+				left: 5%;
+				border: solid transparent;
+				border-width: 1px;
+				box-shadow: 3px 10px 40px white;
+			}
+		img.goal
+			{
+				position: absolute;
+				top: 458%;
+				left: 12%;
+				border: solid transparent;
+				border-width: 1px;
+				box-shadow: 3px 10px 40px white;
+			}
+		.family span
+			{
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				transform-origin: center;
+				transform-style: preserve-3d;
+				transform: rotateY(calc(var(--i)*45deg)) translateZ(350px);
+			}
+		.family span img
+			{
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				border-radius: 10px;
+				object-fit: cover;
+				transition: 2s;
+
+			}
+		.family span:hover img
+			{
+				transform: translate(-50px) scale(1.5);
+
+			}
+			
+		img.iloilo
+			{
+				position: absolute;
+				top: 110%;
+				left: 45%;
+			}
+		img.launion
+			{
+				position: absolute;
+				top: 260%;
+				left: 3%;
+			}
+		img.zamboanga
+			{
+				position: absolute;
+				top: 365%;
+				left: 40%;
+			}
+		img.gensan
+			{
+				position: absolute;
+				top: 503%;
+				left: 2%;
+			}
+		img.pd2
+			{
+				position: absolute;
+				top: 250%;
+				left: 60%;	
+				background-color: transparent;
+				border: 3px solid transparent;
+				border-radius: 20px;	
+				box-shadow: 1px 1px 20px #14EACFFF,
+							1px 1px 40px #14EACFFF;
+				animation: anime 1s linear infinite;
+			}
+		div:nth-child(1)
+			{
+
+				animation-delay: 0.2s;
+
+			}
+		div:nth-child(2)
+			{
+	animation-delay: 0.4s;
+			}
+	@keyframes anime
+			{
+		0%{
+		filter: hue-rotate(0deg);
+			}
+	100%{
+
+		filter: hue-rotate(360deg);
+		}
+
+		}
+			}

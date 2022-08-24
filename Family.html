@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial=scale=1">
+	<link rel="stylesheet" type="text/css" href="final.css">
+	<title>My Family</title>
+	<style>
+		*
+			{
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+		body
+			{
+				
+				background-image: url(familybg.jpg);
+				background-repeat: no-repeat;
+				background-size: 1350px 620px;
+				height: 100vh;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				overflow: hidden;
+			}		
+		.family{
+			position: relative;
+			width: 200px;
+			height: 200px;
+			transform-style: preserve-3d;
+			animation: rotate 30s linear infinite;
+		}
+		@keyframes rotate
+			{
+		0%{
+		transform: perspective(1000px) rotateY(0deg);
+			}
+	100%{
+
+		transform: perspective(1000px) rotateY(360deg);
+		}
+
+		}
+			}
+	</style>
+</head>
+<body>
+	<h1 class="myfamily">My Family</h1>
+	<div class="family"> 
+	<span style="--i:1;"><img src="family6.jpg"></span>
+	<span style="--i:2;"><img src="family.jpg"></span>
+	<span style="--i:3;"><img src="family1.jpg"></span>
+	<span style="--i:4;"><img src="family2.jpg"></span>
+	<span style="--i:5;"><img src="family3.jpg"></span>
+	<span style="--i:6;"><img src="family4.jpg"></span>
+	<span style="--i:7;"><img src="family5.jpg"></span>
+	<span style="--i:8;"><img src="family7.jpg"></span>
+	</div>
+<audio class="familyaudio" controls="">
+		<source src="family.mp3" type="audio/mp3">
+	</audio>
+	<a class="button3" href="Scrapbook.html"><img src="home.png" width="50px" height="50px"></a>
+</body>
+</html>
